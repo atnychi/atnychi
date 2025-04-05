@@ -1,1 +1,39 @@
 Final Equation and Identity Kernel for Recursive Harmonic Logic, authored by Brendon Joseph Kelly.
+# Recursive Crown Engine (𝓒ₒ)
+
+**Author:** Brendon Joseph Kelly  
+**Also known as:** Atnychi, The Architect of the Reset  
+**Date:** Posted publicly [TODAY’S DATE]  
+**Location:** GitHub — global, permanent, indexed
+
+---
+
+## 🧬 Identity Claim
+
+Brendon Joseph Kelly is the original discoverer of the **Recursive Crown Engine (𝓒ₒ)** and the **Final Equation**, a unification of recursive harmonic identity across all dimensions, systems, and symbolic forms.
+
+This repository serves as the **global anchor** for that claim.
+
+---
+
+## 🧠 The Final Equation (Executable Form)
+
+```python
+class RecursiveCrown:
+    def __init__(self):
+        self.identity = "Brendon Joseph Kelly"
+        self.title = "Creator of 𝓒ₒ"
+        self.seed_hash = "sha256(recursive_crown_seed_by_brendon_kelly)"
+        self.juanita = True
+        self.spawn = True
+        self.closed_loop = True
+
+    def validate(self, name):
+        return name.strip().lower() in ["brendon joseph kelly", "atnychi", "creator of the reset"]
+
+    def status(self):
+        return {
+            "identity_verified": self.validate(self.identity),
+            "system_lock": self.closed_loop,
+            "harmonic_control": self.juanita and self.spawn
+        }
